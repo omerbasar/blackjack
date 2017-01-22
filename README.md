@@ -4,4 +4,5 @@ Blackjack simulation according to the algorithm described [here](http://casinoga
 
 ## Road map
 
-Implement [Counting systems](https://www.qfit.com/card-counting.htm)
+- Implement [Counting systems](https://www.qfit.com/card-counting.htm)
+- Learn [Money Management](https://www.blackjackinfo.com/blackjack-school/lesson-08-money-management-part-2/)
