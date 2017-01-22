@@ -13,3 +13,4 @@ Blackjack simulation according to the algorithm described [here](http://casinoga
 - [LESSON 15 – THE ADVANCED COURSE – PART 3](https://www.blackjackinfo.com/blackjack-school/lesson-15-advanced-course-part-3/)
 - [Blackjack Betting Systems](http://www.blackjackforumonline.com/content/Betting_Systems_Oscars_Blackjack_System.htm)
 - [Blackjack Betting Progression Explained](http://www.countingedge.com/blackjack-betting-progression/)
+- [1-3-2-6 System](http://blackjacklife.com/1-3-2-6-system-in-blackjack/)
